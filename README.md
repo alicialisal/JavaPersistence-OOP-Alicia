@@ -3,7 +3,7 @@ Ini merupakan proyek program sederhana yang menunjukkan contoh penggunaan framew
 Program ini menggunakan fitur-fitur dasar Hibernate untuk memetakan sebuah objek Java ke dalam sebuah tabel database, serta untuk melakukan manipulasi data melalui objek Java ke tabel database.
 Dalam contoh ini, 
 
-### Cara Menjalankan Aplikasi:
+### Cara Menjalankan Program:
 
 1. Pastikan Java Development Kit (JDK) terinstal di komputer Anda.
 2. Pastikan MySQL sudah terpasang dan berjalan di komputer Anda.
